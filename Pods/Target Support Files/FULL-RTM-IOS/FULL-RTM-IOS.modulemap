@@ -1,0 +1,6 @@
+framework module FULL_RTM_IOS {
+  umbrella header "FULL-RTM-IOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

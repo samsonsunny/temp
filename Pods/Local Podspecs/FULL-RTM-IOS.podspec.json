@@ -1,0 +1,22 @@
+{
+  "name": "FULL-RTM-IOS",
+  "version": "0.1.0",
+  "summary": "A short description of FULL-RTM-IOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/samsonsunny/FULL-RTM-IOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "samsonsunny": "sam.sunny@a-cti.com"
+  },
+  "source": {
+    "git": "https://github.com/samsonsunny/FULL-RTM-IOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FULL-RTM-IOS/Classes/**/*"
+}
